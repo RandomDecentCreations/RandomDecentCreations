@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RandomDecentCreations
+- 👀 I’m interested in DreamSmp
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on a game based in the DSMP
+- 📫 How to reach me cream0235@gmail.com
